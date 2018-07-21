@@ -23,3 +23,5 @@ var conf = confirm('ACEPTA LAS POLIICAS DE SERVICIO');
 var prop = prompt('SE AGRAGARA EL ITEM');
 console.log(prop);
 console.log(conf);
+/// mostrando cambios en git
+console.log("cambios nuevossss");
